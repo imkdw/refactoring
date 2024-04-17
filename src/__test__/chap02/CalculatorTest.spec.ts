@@ -1,4 +1,4 @@
-import { Calculator } from "../../src/chap02/Calculator";
+import { Calculator } from "../../chap02/Calculator";
 
 describe("Calulator Test", () => {
   it("plus", () => {

@@ -1,5 +1,5 @@
-import { PasswordStrengthMeter } from "../../src/chap02/PasswordStrengthMeter";
-import { PasswordStrength } from "../../src/chap02/PasswordStrength.enum";
+import { PasswordStrengthMeter } from "../../chap02/PasswordStrengthMeter";
+import { PasswordStrength } from "../../chap02/PasswordStrength.enum";
 
 describe("PasswordStrengthMeterTest", () => {
   const meter = new PasswordStrengthMeter();
